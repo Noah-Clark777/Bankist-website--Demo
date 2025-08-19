@@ -1,0 +1,15 @@
+{
+  "name": "bankist",
+  "version": "1.0.0",
+  "description": "project to mimic minimalist banking websight ",
+  "default": "practice.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Noah Clark",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.15.4"
+  }
+}
